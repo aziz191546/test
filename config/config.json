@@ -1,0 +1,10 @@
+{
+    "token": "your_bot_token",
+    "prefix": "*",
+    "ownerID": "604041543485227009",
+    "footertext": "Coded By [𝗔𝗭𝗜𝗭 𝗞𝗔𝗠𝗠𝗢𝗨𝗡]#1919",
+    "colors": {
+        "yes": "BLUE",
+        "no": "RED"
+    }
+}

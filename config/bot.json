@@ -1,0 +1,16 @@
+{
+    "dev": {
+        "owner_id": ["604041543485227009"],
+        "support": "https://discord.gg/caxGNajAKJ",
+        "website": "https://www.bestbot.xyz/"
+    },
+    "bot": {
+        "connections": {
+            "mongoose": "mongodb+srv://28665609:aziz28665609@cluster0.em9tc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+            "yt_api": "AIzaSyAbzunDrCVeRdYSFkZgTqZ0fDMWP4qHaEM"
+        },
+        "setting": {
+            "main_prefix": "*"
+        }
+    }
+}
