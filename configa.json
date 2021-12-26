@@ -1,0 +1,13 @@
+{
+  "prefix" : "*",
+  "useMasterRole" : false,
+  "masterRoleName" : "Mute zae494Mastzaezaezaezae7894789er",
+  "useTeacherMode" : false,
+  "reactionFeedbackMute" : "🇲",
+  "reactionFeedbackUnMute" : "🇺",
+  "reactionFeedbackFail" : "🥺",
+  "playVoiceWhenMute" : false,
+  "playVoiceWhenUnMute" : false,
+  "textMessageMute" : "Done mute all member ✅",
+  "textMessageUnMute" : "Done unmute all member ✅"
+}
